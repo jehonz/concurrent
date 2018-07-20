@@ -6,7 +6,7 @@
 
 package yxxy.c_001;
 
-public class T {
+public class T { 
 	
 	private int count = 10;
 	private Object o = new Object();
